@@ -10,7 +10,7 @@
     "gatsby-plugin-sass": "next",
     "node-sass": "^4.9.3",
     "react": "^16.4.2",
-    "react-dom": "^16.4.2",
+    "react-dom": "^17.0.1",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
